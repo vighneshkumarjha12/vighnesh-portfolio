@@ -39,7 +39,7 @@ const Skills = () => {
         {skillData.map((skill, idx) => (
           <motion.div
             key={idx}
-            variants={shakeAnimation}
+      
             whileHover="hover"
             className="rounded-2xl p-[5px] bg-gradient-to-tr from-purple-500 to-indigo-500"
           >
