@@ -25,7 +25,7 @@ const shakeAnimation = {
     transition: {
       duration: 0.4,
       repeat: Infinity,
-      repeatType: 'loop',
+      repeatType: 'reverse',
     },
   },
 };
