@@ -47,7 +47,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m  Vighnesh kumar jha , As a Software Developer, I design, develop, and test software applications, writing clean code and collaborating with teams to deliver high-quality solutions.
+          Hey there! I am Vighnesh Kumar Jha — a passionate Software Developer who loves turning ideas into clean, efficient, and scalable code. Whether it’s building from scratch or improving existing systems, I thrive on crafting smart solutions and collaborating with awesome teams to bring impactful projects to life.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
