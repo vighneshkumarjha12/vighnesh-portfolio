@@ -23,7 +23,7 @@ const Navbar = () => {
             className="cursor-pointer hover:animate-slowspin rounded-full"
           />
           <span className="font-bold ml-2 hidden md:block text-gray-300">
-            Porfolio
+            Software Developer
           </span>
         </a>
 

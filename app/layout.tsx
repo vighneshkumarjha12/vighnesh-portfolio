@@ -8,11 +8,11 @@ import Footer from "@/components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portfolio Vighnesh Kumar Jha",
-  description: "This is my portfolio",
+  title: "Software Developer",
+  description: "full-stack developer with expertise in modern web technologies and data-driven solutions. I build efficient, scalable applications",
    icons: {
     icon: '/plogo.jpeg',
-  },
+  },  
 };
 
 
