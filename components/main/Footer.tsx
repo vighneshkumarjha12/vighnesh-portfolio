@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="w-full flex flex-col items-center justify-center m-auto">
             <div className="w-full h-full flex flex-row items-center justify-around flex-wrap"> 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; vighneshkumarjha  2025 Inc. All rights reserved
+                &copy; vighneshkumarjha  2026 Inc. All rights reserved
             </div>
             </div>
         </div>
