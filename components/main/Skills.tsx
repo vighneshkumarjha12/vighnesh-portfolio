@@ -13,7 +13,7 @@ const skillData = [
   { title: 'Power BI', image: '/PowerBi.png' },
   { title: 'Python', image: '/python_logo.webp' },
   { title: 'Django', image: '/django.png' },
-  { title: 'Machine Learning', image: '/ml.png' },
+  { title: 'FastAPI', image: '/FastAPI_logo.svg.png' },
   { title: 'Shopify', image: '/shopify.svg' },
   { title: 'MySQL', image: '/mysql.png' },
   { title: 'GitHub', image: '/gitwhite.png' },
