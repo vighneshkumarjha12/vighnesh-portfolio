@@ -29,38 +29,33 @@ const HeroContent = () => {
           
         </motion.div>
 
-        <motion.div
-          variants={slideInFromLeft(0.5)}
-          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
-        >
-          <span>
-            Crafting 
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              {" "}
-              high-quality {" "}
-            </span>
-            project solutions
-          </span>
-        </motion.div>
+      <motion.div
+  variants={slideInFromLeft(0.5)}
+  className="flex flex-col gap-4 mt-4 text-4xl md:text-5xl font-semibold text-white max-w-[520px]"
+>
+  <span className="leading-tight">
+    Crafting{" "}
+    <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+      High Quality
+    </span>{" "}
+    Project Solutions
+  </span>
+</motion.div>
 
-        <motion.p
-          variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400 my-5 max-w-[600px]"
-        >
-          Hey there! I am Vighnesh Kumar Jha — a passionate Software Developer who loves turning ideas into clean, efficient, and scalable code. Whether it’s building from scratch or improving existing systems, I thrive on crafting smart solutions and collaborating with awesome teams to bring impactful projects to life.
-        </motion.p>
-        <motion.a
-          variants={slideInFromLeft(1)}
-          className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[300px]"
-        >
-        
+<motion.p
+  variants={slideInFromLeft(0.8)}
+  className="text-base text-gray-400 mt-3 max-w-[520px] leading-relaxed"
+>
+  Hey there! I am Vighnesh Kumar Jha — a passionate Software Developer who loves turning ideas into clean, efficient, and scalable code. I enjoy building impactful solutions and collaborating on meaningful projects.
+</motion.p>
 
-         Contact :-7028851769
+<motion.a
+  variants={slideInFromLeft(1)}
+  className="mt-4 py-2 px-4 button-primary text-center text-white cursor-pointer rounded-md w-fit"
+>
+  Contact: 7028851769
+</motion.a>
 
-
-       
-        </motion.a>
-      </div>
 
       <motion.div
         variants={slideInFromRight(0.8)}
